@@ -1,1 +1,2 @@
-fun fun practice practice
+print("fun practice preactice")
+print("This is a practice bro")
